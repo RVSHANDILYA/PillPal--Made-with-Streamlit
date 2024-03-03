@@ -13,7 +13,7 @@ def get_medication(disease):
     }
     return medications.get(disease, [])
 
-image = Image.open("![Pillpal](https://github.com/RVSHANDILYA/PillPal-/assets/103808761/19f78bcc-8db9-4159-8a8c-2b88073d236d)")
+image = Image.open("C:\Users\Admin\Desktop\Medipro\Pillpal.png")
 st.image(image, caption='', use_column_width=True)
 
 st.latex(r"{\Large Your\ Personalised\ Medicine\ Recommender}")

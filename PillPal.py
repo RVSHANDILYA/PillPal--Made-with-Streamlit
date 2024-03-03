@@ -13,7 +13,7 @@ def get_medication(disease):
     }
     return medications.get(disease, [])
 
-st.image("PillPal.jpeg", width = 700)
+st.markdown("<h1 style='text-align: center;'>PILLPALL</h1>", unsafe_allow_html=True)
 
 st.latex(r"{\Large Your\ Personalised\ Medicine\ Recommender}")
 

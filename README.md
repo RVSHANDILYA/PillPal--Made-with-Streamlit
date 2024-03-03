@@ -4,10 +4,11 @@ The Personalized Medication Recommender is a Streamlit-based application designe
 
 Languages used:
 ---------------
-Python: The primary programming language used for the backend logic, data processing, and interaction with Streamlit.
-HTML/CSS (via Streamlit): Streamlit allows the incorporation of HTML and CSS for customizing the appearance and layout of the web application. HTML is used for structuring the content (e.g., headers, paragraphs), while CSS can be used for styling elements (e.g., colors, fonts).
-Markdown (via Streamlit): Streamlit supports Markdown for formatting text, creating headers, lists, and other textual elements within the application.
-
+1. Python: The primary programming language used for the backend logic, data processing, and interaction with Streamlit.
+2. HTML/CSS (via Streamlit): Streamlit allows the incorporation of HTML and CSS for customizing the appearance and layout of the web application. HTML is used for structuring the content (e.g., headers, 
+   paragraphs), while CSS can be used for styling elements (e.g., colors, fonts).
+3. Markdown (via Streamlit): Streamlit supports Markdown for formatting text, creating headers, lists, and other textual elements within the application.
+ 
 Key Features:
 -------------
 1. User Input: Users can select their disease, severity level, age, sex, and other medical conditions through interactive dropdown menus and sliders.
@@ -16,4 +17,6 @@ Key Features:
 4. User-Friendly Interface: The application features a clean and intuitive user interface, making it easy for users to navigate and interact with.
 This project aims to provide users with personalized medication recommendations tailored to their specific medical needs, promoting informed decision-making and healthcare management.
 
+Watch:
+--------
 The site is live at : https://pillpal.streamlit.app/

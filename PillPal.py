@@ -13,8 +13,7 @@ def get_medication(disease):
     }
     return medications.get(disease, [])
 
-image = Image.open("C:\Users\Admin\Desktop\Medipro\Pillpal.png")
-st.image(image, caption='', use_column_width=True)
+st.image("PillPal.png", width = 700)
 
 st.latex(r"{\Large Your\ Personalised\ Medicine\ Recommender}")
 

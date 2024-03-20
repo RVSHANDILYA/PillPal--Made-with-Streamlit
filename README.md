@@ -1,3 +1,6 @@
+Watch:
+--------
+The site is live at : https://pillpal.streamlit.app/
 # PillPal
 ![Pillpal](https://github.com/RVSHANDILYA/PillPal-/assets/103808761/19f78bcc-8db9-4159-8a8c-2b88073d236d)
 The Personalized Medication Recommender is a Streamlit-based application designed to assist users in selecting appropriate medication based on their specific medical condition, severity, age, and other relevant factors. The application provides a user-friendly interface where users can input their disease, severity level, age, sex, and any other medical conditions they may have. Based on these inputs, the application retrieves relevant medication recommendations from a predefined database.
@@ -17,6 +20,4 @@ Key Features:
 4. User-Friendly Interface: The application features a clean and intuitive user interface, making it easy for users to navigate and interact with.
 This project aims to provide users with personalized medication recommendations tailored to their specific medical needs, promoting informed decision-making and healthcare management.
 
-Watch:
---------
-The site is live at : https://pillpal.streamlit.app/
+
